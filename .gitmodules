@@ -1,0 +1,3 @@
+[submodule "chat-data"]
+	path = chat-data
+	url = https://github.com/jeremy-feng/chat-data.git
